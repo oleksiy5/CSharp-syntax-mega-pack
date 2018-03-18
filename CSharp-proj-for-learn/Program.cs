@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-
+// - - -> Olo Technic
 namespace CSharp_proj_for_learn
 {
     class Program
