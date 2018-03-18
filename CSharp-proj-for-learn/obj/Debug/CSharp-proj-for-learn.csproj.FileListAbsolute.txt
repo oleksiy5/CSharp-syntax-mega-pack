@@ -1,0 +1,7 @@
+C:\Users\Oleksiy\Desktop\.NET and CSharp-syntax-mega-pack\VS-project\CSharp-proj-for-learn\CSharp-proj-for-learn\bin\Debug\CSharp-proj-for-learn.exe.config
+C:\Users\Oleksiy\Desktop\.NET and CSharp-syntax-mega-pack\VS-project\CSharp-proj-for-learn\CSharp-proj-for-learn\bin\Debug\CSharp-proj-for-learn.exe
+C:\Users\Oleksiy\Desktop\.NET and CSharp-syntax-mega-pack\VS-project\CSharp-proj-for-learn\CSharp-proj-for-learn\bin\Debug\CSharp-proj-for-learn.pdb
+C:\Users\Oleksiy\Desktop\.NET and CSharp-syntax-mega-pack\VS-project\CSharp-proj-for-learn\CSharp-proj-for-learn\obj\Debug\CSharp-proj-for-learn.csprojResolveAssemblyReference.cache
+C:\Users\Oleksiy\Desktop\.NET and CSharp-syntax-mega-pack\VS-project\CSharp-proj-for-learn\CSharp-proj-for-learn\obj\Debug\CSharp-proj-for-learn.csproj.CoreCompileInputs.cache
+C:\Users\Oleksiy\Desktop\.NET and CSharp-syntax-mega-pack\VS-project\CSharp-proj-for-learn\CSharp-proj-for-learn\obj\Debug\CSharp-proj-for-learn.exe
+C:\Users\Oleksiy\Desktop\.NET and CSharp-syntax-mega-pack\VS-project\CSharp-proj-for-learn\CSharp-proj-for-learn\obj\Debug\CSharp-proj-for-learn.pdb
