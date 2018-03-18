@@ -48,5 +48,50 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="AdvancedLevel\AnonymusType\" />
+    <Folder Include="AdvancedLevel\Attributes\" />
+    <Folder Include="AdvancedLevel\DesignPatterns\" />
+    <Folder Include="AdvancedLevel\Diagnostic\" />
+    <Folder Include="AdvancedLevel\ExtensionLevel\" />
+    <Folder Include="AdvancedLevel\GenericType\" />
+    <Folder Include="AdvancedLevel\ICompable\" />
+    <Folder Include="AdvancedLevel\IDisposable\" />
+    <Folder Include="AdvancedLevel\IEnumerable\" />
+    <Folder Include="AdvancedLevel\Inheritance\" />
+    <Folder Include="AdvancedLevel\Lambda\" />
+    <Folder Include="AdvancedLevel\Overview\" />
+    <Folder Include="AdvancedLevel\PartialClass\" />
+    <Folder Include="AdvancedLevel\Reflection\" />
+    <Folder Include="AdvancedLevel\Threading\" />
+    <Folder Include="BasicLevel\Arrays\" />
+    <Folder Include="BasicLevel\BoxingAndUnboxing\" />
+    <Folder Include="BasicLevel\Collection\" />
+    <Folder Include="BasicLevel\Comment\" />
+    <Folder Include="BasicLevel\Conditions\" />
+    <Folder Include="BasicLevel\ConstructorAndFinalizer\" />
+    <Folder Include="BasicLevel\DataType\" />
+    <Folder Include="BasicLevel\Enum\" />
+    <Folder Include="BasicLevel\File\" />
+    <Folder Include="BasicLevel\GarbageCollector\" />
+    <Folder Include="BasicLevel\Loop\" />
+    <Folder Include="BasicLevel\MethodAndOverload\" />
+    <Folder Include="BasicLevel\Namespace\" />
+    <Folder Include="BasicLevel\Null\" />
+    <Folder Include="BasicLevel\Operators\" />
+    <Folder Include="BasicLevel\StaticClass\" />
+    <Folder Include="BasicLevel\String\" />
+    <Folder Include="BasicLevel\TypeConversion\" />
+    <Folder Include="MiddleLevel\AbstractClass\" />
+    <Folder Include="MiddleLevel\ClassAndStructure\" />
+    <Folder Include="MiddleLevel\DataBase\" />
+    <Folder Include="MiddleLevel\Delegates\" />
+    <Folder Include="MiddleLevel\Event\" />
+    <Folder Include="MiddleLevel\GUID\" />
+    <Folder Include="MiddleLevel\Indexer\" />
+    <Folder Include="MiddleLevel\Interface\" />
+    <Folder Include="MiddleLevel\Linq\" />
+    <Folder Include="MiddleLevel\Stream\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
