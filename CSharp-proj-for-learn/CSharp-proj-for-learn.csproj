@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BasicLevel\String\ExerciseString.cs" />
+    <Compile Include="ExerciseFactory.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -80,7 +82,6 @@
     <Folder Include="BasicLevel\Null\" />
     <Folder Include="BasicLevel\Operators\" />
     <Folder Include="BasicLevel\StaticClass\" />
-    <Folder Include="BasicLevel\String\" />
     <Folder Include="BasicLevel\TypeConversion\" />
     <Folder Include="MiddleLevel\AbstractClass\" />
     <Folder Include="MiddleLevel\ClassAndStructure\" />
