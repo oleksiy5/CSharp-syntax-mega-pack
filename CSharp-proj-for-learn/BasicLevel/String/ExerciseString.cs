@@ -37,11 +37,11 @@ namespace CSharp_proj_for_learn.BasicLevel.String
         {
             //your place to practice
 
-            DisplayMessage("first test");
+            DisplayMessage("Jakiś tekst.");
 
-            DisplayMessage("second test", 5);
+            DisplayMessage("Ala ma kota.", 5);
 
-            DisplayMessageCSharp6("third test");
+            DisplayMessageCSharp6("Lubie mróz.");
         }
     }
 }
