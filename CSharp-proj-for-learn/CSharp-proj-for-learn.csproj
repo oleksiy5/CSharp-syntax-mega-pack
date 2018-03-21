@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BasicLevel\Null\ExerciseNull.cs" />
     <Compile Include="BasicLevel\String\ExerciseString.cs" />
     <Compile Include="ExerciseFactory.cs" />
     <Compile Include="Program.cs" />
@@ -79,7 +80,6 @@
     <Folder Include="BasicLevel\Loop\" />
     <Folder Include="BasicLevel\MethodAndOverload\" />
     <Folder Include="BasicLevel\Namespace\" />
-    <Folder Include="BasicLevel\Null\" />
     <Folder Include="BasicLevel\Operators\" />
     <Folder Include="BasicLevel\StaticClass\" />
     <Folder Include="BasicLevel\TypeConversion\" />

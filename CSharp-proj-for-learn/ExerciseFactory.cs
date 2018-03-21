@@ -1,9 +1,5 @@
 ﻿using CSharp_proj_for_learn.BasicLevel.String;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using CSharp_proj_for_learn.BasicLevel.Null;
 
 namespace CSharp_proj_for_learn
 {
@@ -24,7 +20,9 @@ namespace CSharp_proj_for_learn
                 case "STRING":
                     exercise = new ExerciseString();
                     break;
-
+                case "NULL":
+                    exercise = new ExerciseNull();
+                    break;
 
             }
             return exercise;
