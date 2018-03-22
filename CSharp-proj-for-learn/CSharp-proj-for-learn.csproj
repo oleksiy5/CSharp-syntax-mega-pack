@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BasicLevel\Comment\ExerciseComment.cs" />
+    <Compile Include="BasicLevel\Namespace\ExerciseNamespace.cs" />
     <Compile Include="BasicLevel\Null\ExerciseNull.cs" />
     <Compile Include="BasicLevel\String\ExerciseString.cs" />
     <Compile Include="ExerciseFactory.cs" />
@@ -70,7 +72,6 @@
     <Folder Include="BasicLevel\Arrays\" />
     <Folder Include="BasicLevel\BoxingAndUnboxing\" />
     <Folder Include="BasicLevel\Collection\" />
-    <Folder Include="BasicLevel\Comment\" />
     <Folder Include="BasicLevel\Conditions\" />
     <Folder Include="BasicLevel\ConstructorAndFinalizer\" />
     <Folder Include="BasicLevel\DataType\" />
@@ -79,7 +80,6 @@
     <Folder Include="BasicLevel\GarbageCollector\" />
     <Folder Include="BasicLevel\Loop\" />
     <Folder Include="BasicLevel\MethodAndOverload\" />
-    <Folder Include="BasicLevel\Namespace\" />
     <Folder Include="BasicLevel\Operators\" />
     <Folder Include="BasicLevel\StaticClass\" />
     <Folder Include="BasicLevel\TypeConversion\" />

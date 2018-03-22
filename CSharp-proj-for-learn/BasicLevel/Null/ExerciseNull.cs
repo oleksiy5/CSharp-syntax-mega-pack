@@ -12,14 +12,14 @@ namespace CSharp_proj_for_learn.BasicLevel.Null
         {
             //your place to practice
 
-            //#region reference type
+            #region reference type
 
-            //string msg = "";
+            string msg = "";
+            Console.WriteLine(msg.ToString());
+            //msg = null;//<--null to nie to samo co pusty ciąg znaków
             //Console.WriteLine(msg.ToString());
-            ////msg = null;//<--null to nie to samo co pusty ciąg znaków
-            ////Console.WriteLine(msg.ToString());
-            
-            //#endregion reference type
+
+            #endregion reference type
 
             #region value type
 
