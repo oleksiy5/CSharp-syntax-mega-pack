@@ -16,10 +16,11 @@ namespace CSharp_proj_for_learn.BasicLevel.File
             strArr[2] = "|3|Wednesday|";
             strArr[3] = "|4|Thursday|";
             strArr[4] = "|5|Friday|";
+
             if(System.IO.Directory.Exists(@"C:\FileStor"))
                 System.IO.File.WriteAllLines(@"c:\FileStor\file_data.txt", strArr);
             else
-            {
+            {   
                 System.IO.Directory.CreateDirectory(@"C:\FileStor");
                 System.IO.File.WriteAllLines(@"c:\FileStor\file_data.txt", strArr);
             }

@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BasicLevel\Arrays\ExerciseArrays.cs" />
     <Compile Include="BasicLevel\Comment\ExerciseComment.cs" />
     <Compile Include="BasicLevel\File\ExerciseFile.cs" />
     <Compile Include="BasicLevel\Namespace\ExerciseNamespace.cs" />
@@ -70,7 +71,6 @@
     <Folder Include="AdvancedLevel\PartialClass\" />
     <Folder Include="AdvancedLevel\Reflection\" />
     <Folder Include="AdvancedLevel\Threading\" />
-    <Folder Include="BasicLevel\Arrays\" />
     <Folder Include="BasicLevel\BoxingAndUnboxing\" />
     <Folder Include="BasicLevel\Collection\" />
     <Folder Include="BasicLevel\Conditions\" />

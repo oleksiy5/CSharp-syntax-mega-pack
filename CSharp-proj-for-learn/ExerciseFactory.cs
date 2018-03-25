@@ -2,7 +2,7 @@
 using CSharp_proj_for_learn.BasicLevel.Null;
 using CSharp_proj_for_learn.BasicLevel.Comment;
 using CSharp_proj_for_learn.BasicLevel.File;
-
+using CSharp_proj_for_learn.BasicLevel.Arrays;
 
 namespace CSharp_proj_for_learn
 {
@@ -32,6 +32,10 @@ namespace CSharp_proj_for_learn
                 case "FILE":
                     exercise = new ExerciseFile();
                     break;
+                case "ARRAY":
+                    exercise = new ExerciseArrays();
+                    break;
+
             }
 
             return exercise;
