@@ -1,6 +1,8 @@
 ﻿using CSharp_proj_for_learn.BasicLevel.String;
 using CSharp_proj_for_learn.BasicLevel.Null;
 using CSharp_proj_for_learn.BasicLevel.Comment;
+using CSharp_proj_for_learn.BasicLevel.File;
+
 
 namespace CSharp_proj_for_learn
 {
@@ -26,7 +28,10 @@ namespace CSharp_proj_for_learn
                     break;
                 case "COMMENT":
                     exercise = new ExerciseComment();
-                    break;                       
+                    break;
+                case "FILE":
+                    exercise = new ExerciseFile();
+                    break;
             }
 
             return exercise;

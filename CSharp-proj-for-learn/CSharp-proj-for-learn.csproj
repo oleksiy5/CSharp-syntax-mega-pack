@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BasicLevel\Comment\ExerciseComment.cs" />
+    <Compile Include="BasicLevel\File\ExerciseFile.cs" />
     <Compile Include="BasicLevel\Namespace\ExerciseNamespace.cs" />
     <Compile Include="BasicLevel\Null\ExerciseNull.cs" />
     <Compile Include="BasicLevel\String\ExerciseString.cs" />
@@ -76,7 +77,6 @@
     <Folder Include="BasicLevel\ConstructorAndFinalizer\" />
     <Folder Include="BasicLevel\DataType\" />
     <Folder Include="BasicLevel\Enum\" />
-    <Folder Include="BasicLevel\File\" />
     <Folder Include="BasicLevel\GarbageCollector\" />
     <Folder Include="BasicLevel\Loop\" />
     <Folder Include="BasicLevel\MethodAndOverload\" />
