@@ -3,6 +3,7 @@ using CSharp_proj_for_learn.BasicLevel.Null;
 using CSharp_proj_for_learn.BasicLevel.Comment;
 using CSharp_proj_for_learn.BasicLevel.File;
 using CSharp_proj_for_learn.BasicLevel.Arrays;
+using CSharp_proj_for_learn.BasicLevel.TypeConversion;
 
 namespace CSharp_proj_for_learn
 {
@@ -35,7 +36,9 @@ namespace CSharp_proj_for_learn
                 case "ARRAY":
                     exercise = new ExerciseArrays();
                     break;
-
+                case "TYPE_CONVERT":
+                    exercise = new ExerciseTypeConvert();
+                    break;
             }
 
             return exercise;

@@ -48,6 +48,7 @@
     <Compile Include="BasicLevel\Namespace\ExerciseNamespace.cs" />
     <Compile Include="BasicLevel\Null\ExerciseNull.cs" />
     <Compile Include="BasicLevel\String\ExerciseString.cs" />
+    <Compile Include="BasicLevel\TypeConversion\ExerciseTypeConvert.cs" />
     <Compile Include="ExerciseFactory.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -82,12 +83,12 @@
     <Folder Include="BasicLevel\MethodAndOverload\" />
     <Folder Include="BasicLevel\Operators\" />
     <Folder Include="BasicLevel\StaticClass\" />
-    <Folder Include="BasicLevel\TypeConversion\" />
     <Folder Include="MiddleLevel\AbstractClass\" />
     <Folder Include="MiddleLevel\ClassAndStructure\" />
     <Folder Include="MiddleLevel\DataBase\" />
     <Folder Include="MiddleLevel\Delegates\" />
     <Folder Include="MiddleLevel\Event\" />
+    <Folder Include="MiddleLevel\Extension\" />
     <Folder Include="MiddleLevel\GUID\" />
     <Folder Include="MiddleLevel\Indexer\" />
     <Folder Include="MiddleLevel\Interface\" />
