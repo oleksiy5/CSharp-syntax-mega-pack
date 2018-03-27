@@ -10,7 +10,7 @@ namespace CSharp_proj_for_learn.BasicLevel.TypeConversion
     {
         public void StartTest()
         {
-            string strValue = "100abc";
+            string strValue = "100";
 
             //int numberValue1 = strValue;
             if (strValue.All(char.IsDigit))
