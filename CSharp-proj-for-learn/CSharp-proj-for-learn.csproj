@@ -45,6 +45,7 @@
     <Compile Include="BasicLevel\Arrays\ExerciseArrays.cs" />
     <Compile Include="BasicLevel\Comment\ExerciseComment.cs" />
     <Compile Include="BasicLevel\File\ExerciseFile.cs" />
+    <Compile Include="BasicLevel\Loop\ExerciseLoop.cs" />
     <Compile Include="BasicLevel\Namespace\ExerciseNamespace.cs" />
     <Compile Include="BasicLevel\Null\ExerciseNull.cs" />
     <Compile Include="BasicLevel\String\ExerciseString.cs" />
@@ -79,7 +80,6 @@
     <Folder Include="BasicLevel\DataType\" />
     <Folder Include="BasicLevel\Enum\" />
     <Folder Include="BasicLevel\GarbageCollector\" />
-    <Folder Include="BasicLevel\Loop\" />
     <Folder Include="BasicLevel\MethodAndOverload\" />
     <Folder Include="BasicLevel\Operators\" />
     <Folder Include="BasicLevel\StaticClass\" />
