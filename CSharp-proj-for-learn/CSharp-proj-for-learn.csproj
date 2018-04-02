@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="BasicLevel\Arrays\ExerciseArrays.cs" />
     <Compile Include="BasicLevel\Comment\ExerciseComment.cs" />
+    <Compile Include="BasicLevel\Conditions\ExerciseConditions.cs" />
     <Compile Include="BasicLevel\File\ExerciseFile.cs" />
     <Compile Include="BasicLevel\Loop\ExerciseLoop.cs" />
     <Compile Include="BasicLevel\Namespace\ExerciseNamespace.cs" />
@@ -75,7 +76,6 @@
     <Folder Include="AdvancedLevel\Threading\" />
     <Folder Include="BasicLevel\BoxingAndUnboxing\" />
     <Folder Include="BasicLevel\Collection\" />
-    <Folder Include="BasicLevel\Conditions\" />
     <Folder Include="BasicLevel\ConstructorAndFinalizer\" />
     <Folder Include="BasicLevel\DataType\" />
     <Folder Include="BasicLevel\Enum\" />

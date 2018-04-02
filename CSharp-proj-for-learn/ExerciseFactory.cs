@@ -5,6 +5,7 @@ using CSharp_proj_for_learn.BasicLevel.File;
 using CSharp_proj_for_learn.BasicLevel.Arrays;
 using CSharp_proj_for_learn.BasicLevel.TypeConversion;
 using CSharp_proj_for_learn.BasicLevel.Loop;
+using CSharp_proj_for_learn.BasicLevel.Conditions;
 
 namespace CSharp_proj_for_learn
 {
@@ -42,6 +43,9 @@ namespace CSharp_proj_for_learn
                     break;
                 case "LOOP":
                     exercise = new ExerciseLoop();
+                    break;
+                case "CONDITION":
+                    exercise = new ExerciseConditions();
                     break;
             }
 
