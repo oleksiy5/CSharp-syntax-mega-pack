@@ -7,6 +7,7 @@ using CSharp_proj_for_learn.BasicLevel.TypeConversion;
 using CSharp_proj_for_learn.BasicLevel.Loop;
 using CSharp_proj_for_learn.BasicLevel.Conditions;
 using CSharp_proj_for_learn.BasicLevel.Enum;
+using CSharp_proj_for_learn.BasicLevel.BoxingAndUnboxing;
 namespace CSharp_proj_for_learn
 {
     interface IExercise
@@ -49,6 +50,9 @@ namespace CSharp_proj_for_learn
                     break;
                 case "ENUM":
                     exercise = new ExerciseEnum();
+                    break;
+                case "BOXING":
+                    exercise = new ExerciseBoxingAndUnboxing();
                     break;
             }
 

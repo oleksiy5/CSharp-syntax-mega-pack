@@ -11,7 +11,7 @@ namespace CSharp_proj_for_learn.BasicLevel.Enum
         public void StartTest()
         {
 
-            Color color = Color.RED;
+            Color color = Color.BLACK;
 
             if(color == Color.RED)            
                 Console.WriteLine("Your choice is red.");

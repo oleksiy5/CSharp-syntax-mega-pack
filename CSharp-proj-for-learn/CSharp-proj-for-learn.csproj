@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BasicLevel\Arrays\ExerciseArrays.cs" />
+    <Compile Include="BasicLevel\BoxingAndUnboxing\ExerciseBoxingAndUnboxing.cs" />
     <Compile Include="BasicLevel\Comment\ExerciseComment.cs" />
     <Compile Include="BasicLevel\Conditions\ExerciseConditions.cs" />
     <Compile Include="BasicLevel\Enum\ExerciseEnum.cs" />
@@ -75,7 +76,6 @@
     <Folder Include="AdvancedLevel\PartialClass\" />
     <Folder Include="AdvancedLevel\Reflection\" />
     <Folder Include="AdvancedLevel\Threading\" />
-    <Folder Include="BasicLevel\BoxingAndUnboxing\" />
     <Folder Include="BasicLevel\Collection\" />
     <Folder Include="BasicLevel\ConstructorAndFinalizer\" />
     <Folder Include="BasicLevel\DataType\" />
