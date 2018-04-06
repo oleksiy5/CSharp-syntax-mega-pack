@@ -46,9 +46,12 @@
     <Compile Include="BasicLevel\BoxingAndUnboxing\ExerciseBoxingAndUnboxing.cs" />
     <Compile Include="BasicLevel\Comment\ExerciseComment.cs" />
     <Compile Include="BasicLevel\Conditions\ExerciseConditions.cs" />
+    <Compile Include="BasicLevel\DataType\ExerciseDateType.cs" />
     <Compile Include="BasicLevel\Enum\ExerciseEnum.cs" />
     <Compile Include="BasicLevel\File\ExerciseFile.cs" />
+    <Compile Include="BasicLevel\GarbageCollector\ExerciseGC.cs" />
     <Compile Include="BasicLevel\Loop\ExerciseLoop.cs" />
+    <Compile Include="BasicLevel\MethodAndOverload\ExerciseOverload.cs" />
     <Compile Include="BasicLevel\Namespace\ExerciseNamespace.cs" />
     <Compile Include="BasicLevel\Null\ExerciseNull.cs" />
     <Compile Include="BasicLevel\String\ExerciseString.cs" />
@@ -78,9 +81,6 @@
     <Folder Include="AdvancedLevel\Threading\" />
     <Folder Include="BasicLevel\Collection\" />
     <Folder Include="BasicLevel\ConstructorAndFinalizer\" />
-    <Folder Include="BasicLevel\DataType\" />
-    <Folder Include="BasicLevel\GarbageCollector\" />
-    <Folder Include="BasicLevel\MethodAndOverload\" />
     <Folder Include="BasicLevel\Operators\" />
     <Folder Include="BasicLevel\StaticClass\" />
     <Folder Include="MiddleLevel\AbstractClass\" />

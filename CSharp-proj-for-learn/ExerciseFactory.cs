@@ -8,6 +8,8 @@ using CSharp_proj_for_learn.BasicLevel.Loop;
 using CSharp_proj_for_learn.BasicLevel.Conditions;
 using CSharp_proj_for_learn.BasicLevel.Enum;
 using CSharp_proj_for_learn.BasicLevel.BoxingAndUnboxing;
+using CSharp_proj_for_learn.BasicLevel.GarbageCollector;
+using CSharp_proj_for_learn.BasicLevel.MethodAndOverload;
 namespace CSharp_proj_for_learn
 {
     interface IExercise
@@ -53,6 +55,12 @@ namespace CSharp_proj_for_learn
                     break;
                 case "BOXING":
                     exercise = new ExerciseBoxingAndUnboxing();
+                    break;
+                case "GC":
+                    exercise = new ExerciseGC();
+                    break;
+                case "OVERLOAD":
+                    exercise = new ExerciseOverload();
                     break;
             }
 

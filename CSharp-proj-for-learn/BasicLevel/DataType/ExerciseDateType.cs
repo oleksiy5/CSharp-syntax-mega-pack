@@ -10,5 +10,6 @@ namespace CSharp_proj_for_learn.BasicLevel.DataType
     {
         //zrealizowane w https://github.com/oleksiy5/temperature_controller
         //
+        
     }
 }
