@@ -11,6 +11,7 @@ using CSharp_proj_for_learn.BasicLevel.BoxingAndUnboxing;
 using CSharp_proj_for_learn.BasicLevel.GarbageCollector;
 using CSharp_proj_for_learn.BasicLevel.MethodAndOverload;
 using CSharp_proj_for_learn.BasicLevel.ConstructorAndFinalizer;
+using CSharp_proj_for_learn.BasicLevel.Collection;
 namespace CSharp_proj_for_learn
 {
     interface IExercise
@@ -66,6 +67,9 @@ namespace CSharp_proj_for_learn
                 case "CONSTRUCTOR":
                     exercise = new ExerciseConstructorAndFinalizer();
                     break;
+                case "COLLECTION":
+                    exercise = new ExerciseCollection();
+                    break;                    
             }
 
             return exercise;
