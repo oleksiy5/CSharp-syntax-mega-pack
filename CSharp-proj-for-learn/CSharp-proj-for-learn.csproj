@@ -46,6 +46,7 @@
     <Compile Include="BasicLevel\BoxingAndUnboxing\ExerciseBoxingAndUnboxing.cs" />
     <Compile Include="BasicLevel\Comment\ExerciseComment.cs" />
     <Compile Include="BasicLevel\Conditions\ExerciseConditions.cs" />
+    <Compile Include="BasicLevel\ConstructorAndFinalizer\ExerciseConstructorAndFinalizer.cs" />
     <Compile Include="BasicLevel\DataType\ExerciseDateType.cs" />
     <Compile Include="BasicLevel\Enum\ExerciseEnum.cs" />
     <Compile Include="BasicLevel\File\ExerciseFile.cs" />
@@ -80,7 +81,6 @@
     <Folder Include="AdvancedLevel\Reflection\" />
     <Folder Include="AdvancedLevel\Threading\" />
     <Folder Include="BasicLevel\Collection\" />
-    <Folder Include="BasicLevel\ConstructorAndFinalizer\" />
     <Folder Include="BasicLevel\Operators\" />
     <Folder Include="BasicLevel\StaticClass\" />
     <Folder Include="MiddleLevel\AbstractClass\" />

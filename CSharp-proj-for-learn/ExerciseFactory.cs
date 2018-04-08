@@ -10,6 +10,7 @@ using CSharp_proj_for_learn.BasicLevel.Enum;
 using CSharp_proj_for_learn.BasicLevel.BoxingAndUnboxing;
 using CSharp_proj_for_learn.BasicLevel.GarbageCollector;
 using CSharp_proj_for_learn.BasicLevel.MethodAndOverload;
+using CSharp_proj_for_learn.BasicLevel.ConstructorAndFinalizer;
 namespace CSharp_proj_for_learn
 {
     interface IExercise
@@ -61,6 +62,9 @@ namespace CSharp_proj_for_learn
                     break;
                 case "OVERLOAD":
                     exercise = new ExerciseOverload();
+                    break;
+                case "CONSTRUCTOR":
+                    exercise = new ExerciseConstructorAndFinalizer();
                     break;
             }
 
